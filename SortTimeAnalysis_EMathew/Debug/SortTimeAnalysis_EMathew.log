@@ -1,0 +1,5 @@
+﻿  SortTimeAnalysisDriver.cpp
+  SortTimeAnalysisImplementation.cpp
+d:\computer programs\visual studio\projects\sorttimeanalysis_emathew\sorttimeanalysis_emathew\sorttimeanalysisimplementation.cpp(31): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+  SortTimeAnalysis_EMathew.vcxproj -> D:\Computer Programs\Visual Studio\Projects\SortTimeAnalysis_EMathew\Debug\SortTimeAnalysis_EMathew.exe
